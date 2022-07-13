@@ -1,5 +1,5 @@
-# Classification_Jupyter
-In this Classification Repository, i have downloaded different types of data sets from Kaggle in .csv format, such as, Titanic Passengers data, SVM petal and Sepal, Heart patients data, Diabetic Patients data and loan sanction data
+# Data Analysis 
+In this Repository, i have downloaded different types of data sets from Kaggle in .csv format
 and imported them to my jupyter notebook using Pandas and then performed the following stages on the imported data
 1. Data Collection (pandas)
 2. Data Visualization through graphs, pie charts, heatmaps using seaborn, matplotlib, boxplots, catplots, heatmaps etc
